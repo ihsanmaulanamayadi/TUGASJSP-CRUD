@@ -60,13 +60,13 @@ CREATE TABLE `tbl_login` (
 --
 
 INSERT INTO `tbl_login` (`username`, `password`) VALUES
-('alhadi', '123abc'),
-('anis', 'aniscantik'),
-('daniel', 'ilham'),
+('sekar', 'sekar'),
+('saya', 'saya'),
+('daniel', 'daniel'),
 ('daniel123', '123oneil'),
 ('danil', 'danil'),
 ('dans', 'dans123'),
-('ilham', 'ilham'),
+('ihsan', 'ihsan'),
 ('mamat', 'mamat'),
 ('mamats', 'mamat'),
 ('pokopoi', '1234'),
@@ -91,13 +91,13 @@ CREATE TABLE `tb_siswa` (
 --
 
 INSERT INTO `tb_siswa` (`nis`, `nama`, `jk`, `rombel`, `ket`) VALUES
-(1160580, 'Aayam', 'P', 'APK', 'belum'),
-(11605327, 'Korma', 'P', 'APK', 'belum'),
-(11605415, 'Danime', 'W', 'TBG', 'belum'),
-(11605471, 'Sakur', 'P', 'APK', 'belum'),
-(11605584, 'Moch. Ilham Alhadi', 'P', 'MMD', 'belum'),
-(11605735, 'anjay', 'P', 'HTL', 'belum'),
-(11605757, 'M. Kobel Patur', 'P', 'TKJ', 'belum');
+(2019804288, 'Ihsan Maulana Mayadi', 'L', 'SI5D', 'belum'),
+(2019804289, 'Korma', 'P', 'SI5D', 'belum'),
+(2019804290, 'Danime', 'L', 'SI5D', 'belum'),
+(2019804291, 'Sakur', 'P', 'SI5D', 'belum'),
+(2019804292, 'Moch. Ilham Alhadi', 'L', 'SI5D', 'belum'),
+(2019804293, 'anjay', 'P', 'SI5D', 'belum'),
+(2019804294, 'M. Kobel Patur', 'P', 'SI5D', 'belum');
 
 --
 -- Indexes for dumped tables
